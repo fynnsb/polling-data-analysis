@@ -33,3 +33,6 @@ coverage/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# repo specific
+data.json
